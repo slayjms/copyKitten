@@ -1,27 +1,36 @@
 #cell-1{
-    font-stretch: expanded;
+    background-color: red;
+    text-emphasis-color: blue;
 }
 #cell-2{
-
+    background-color: blue;
+    text-emphasis-color: blue;
 }
 #cell-3{
-
+    background-color: green;
+    text-emphasis-color: blue;
 }
 #cell-4{
-
+    background-color: yellow;
+    text-emphasis-color: blue;
 }
 #cell-5{
-
+    background-color: orange;
+    text-emphasis-color: blue;
 }
 #cell-6{
-
+    background-color: purple;
+    text-emphasis-color: blue;
 }
 #cell-7{
-
+    background-color: white;
+    text-emphasis-color: blue;
 }
 #cell-8{
-
+    background-color: black;
+    text-emphasis-color: blue;
 }
 #cell-9{
-
+    background-color: grey;
+    text-emphasis-color: blue;
 }
